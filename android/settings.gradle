@@ -1,0 +1,3 @@
+rootProject.name = 'rsaapp'
+
+include ':app'
